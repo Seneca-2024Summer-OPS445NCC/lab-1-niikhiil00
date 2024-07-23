@@ -11,7 +11,7 @@ with anyone or anything except for submission for grading. I understand
 that the Academic Honesty Policy will be enforced and
 violators will be reported and appropriate action will be taken.
 
-Author: <Student Name>
+Author: tnikhil
 Description: This script calculates various date-related functions such as
              determining the next day, validating dates, and counting weekend days
              between two dates. It includes error handling and usage instructions.
